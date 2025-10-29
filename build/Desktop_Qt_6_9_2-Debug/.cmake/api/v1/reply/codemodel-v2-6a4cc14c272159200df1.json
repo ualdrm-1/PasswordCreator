@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-524b0cbb863840620f30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PasswordCreator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PasswordCreator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PasswordCreator-Debug-561f240d98ca294844d8.json",
+					"name" : "PasswordCreator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PasswordCreator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PasswordCreator_autogen-Debug-ab5b0e13fd7c8a792471.json",
+					"name" : "PasswordCreator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PasswordCreator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PasswordCreator_autogen_timestamp_deps-Debug-41b77494266ab36c788b.json",
+					"name" : "PasswordCreator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug",
+		"source" : "/home/ualdrm/Qt/PasswordCreator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

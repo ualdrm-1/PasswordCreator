@@ -1,0 +1,46 @@
+#partWidget{
+    border:1px solid #555;
+    border-top:none;
+}
+
+#Console{
+    background-color:#1e1e1e;
+    padding:3%;
+    margin:0px;
+    font-family: 'Montserrat Extra Light'
+}
+
+#ConsoleWidget{
+    border:1px solid #555;
+}
+
+#CreateButton{
+    background-color:green;
+}
+
+#Title{
+    font-family: 'Montserrat Black';
+    font-size:20px;
+}
+
+QWidget{
+    font-family: 'Montserrat Regular';
+    font-size:14px;
+}
+
+QComboBox{
+    max-width:180px;
+}
+
+QSpinBox{
+    max-width:60px;
+    max-height:30px;
+}
+
+QLineEdit{
+    max-width:200px;
+}
+
+QLabel::disabled{
+    color: #555;
+}

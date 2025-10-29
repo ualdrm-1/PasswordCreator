@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug/PasswordCreator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ualdrm/Qt/PasswordCreator",
+	"CMAKE_SOURCE_DIR" : "/home/ualdrm/Qt/PasswordCreator",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug/PasswordCreator_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/ualdrm/Qt/PasswordCreator/icon.png",
+		"/home/ualdrm/Qt/PasswordCreator/fonts/Montserrat-ExtraLight.ttf",
+		"/home/ualdrm/Qt/PasswordCreator/fonts/Montserrat-Regular.ttf",
+		"/home/ualdrm/Qt/PasswordCreator/fonts/Montserrat-Black.ttf",
+		"/home/ualdrm/Qt/PasswordCreator/style.qss"
+	],
+	"LOCK_FILE" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/PasswordCreator_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/ualdrm/Qt/6.9.2/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/PasswordCreator_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/ualdrm/Qt/PasswordCreator/resources.qrc",
+	"VERBOSITY" : 0
+}

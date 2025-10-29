@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_PasswordCreator_FILE /home/ualdrm/Qt/PasswordCreator/build/Desktop_Qt_6_9_2-Debug/PasswordCreator)
+set(__QT_DEPLOY_TARGET_PasswordCreator_TYPE EXECUTABLE)
