@@ -22,11 +22,11 @@ g++ -std=c++11 -o password_creator main.cpp
 g++ -std=c++11 -o password_creator.exe main.cpp
 ```
 
-### Usage
+## Usage
 ```bash
 ./password_creator
 ```
 
-### Follow the interactive prompts to specify:
+## Follow the interactive prompts to specify:
 - Password length;
 - Character sets to include.
